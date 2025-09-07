@@ -1,0 +1,632 @@
+[
+  {
+    "Name": "Aarav Mehta",
+    "Category": "Custom Website Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "BulandTECH delivered a fantastic website for my business. The team was professional, and the final product exceeded my expectations."
+  },
+  {
+    "Name": "Priya Sharma",
+    "Category": "Custom Website Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Website bahut hi awesome banaya hai! BulandTECH ki team ne har requirement ko a__he se samjha. Highly recommended!"
+  },
+  {
+    "Name": "Sandeep Singh",
+    "Category": "Custom Website Development",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": " हमारी वेबसाइट बहुत अच्छी लग रही है। बुलंदटेक ने समय पर काम पूरा किया और उनका सपोर्ट भी बहुत अच्छा है।"
+  },
+  {
+    "Name": "Anjali Verma",
+    "Category": "Custom Website Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The custom features they added to our site have significantly improved user engagement. Great work by the BulandTECH team!"
+  },
+  {
+    "Name": "Rohit Kumar",
+    "Category": "Custom Website Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "My new portfolio website is just perfect. Fast, clean, and exactly what I wanted. Thanks, BulandTECH!"
+  },
+  {
+    "Name": "Neha Gupta",
+    "Category": "Custom Website Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "A very reliable and skilled team. They understood our vision and brought it to life."
+  },
+  {
+    "Name": "Karan Jain",
+    "Category": "Custom Website Development",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "बुलंदटेक ने हमारी कंपनी के लिए एक बेहतरीन वेबसाइट बनाई है। उनका काम वाकई सराहनीय है।"
+  },
+  {
+    "Name": "Ritu Chaudhary",
+    "Category": "Custom Website Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Process bahut smooth tha. Communication was excellent throughout the project. Very happy with the outcome."
+  },
+  {
+    "Name": "Manish Yadav",
+    "Category": "Custom Website Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They built a complex portal for us with ease. The performance is top-notch. Highly professional service."
+  },
+  {
+    "Name": "Pooja Rathi",
+    "Category": "Custom Website Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The website is not only beautiful but also very functional. The CMS is super easy to use."
+  },
+  {
+    "Name": "Vivek Tiwari",
+    "Category": "Responsive Web Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "Our old website is now perfectly responsive. It looks great on all devices, from mobile to desktop. Thank you, BulandTECH!"
+  },
+  {
+    "Name": "Shreya Agarwal",
+    "Category": "Responsive Web Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Mobile pe site ab a_hi dikhti hai. Pehle bahut problem thi. BulandTECH ne kamaal kar diya!"
+  },
+  {
+    "Name": "Aditya Saxena",
+    "Category": "Responsive Web Design",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "रिस्पॉन्सिव डिजाइन का काम बहुत अच्छा किया है। अब हमारे यूजर्स को कोई दिक्कत नहीं होती।"
+  },
+  {
+    "Name": "Sneha Joshi",
+    "Category": "Responsive Web Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The user experience on mobile has improved drastically. Our traffic has gone up since the redesign."
+  },
+  {
+    "Name": "Akash Choudhary",
+    "Category": "Responsive Web Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Tablet view ekdam perfect hai. Har screen size pe site perfectly adjust ho jaati hai. Great job!"
+  },
+  {
+    "Name": "Radhika Malhotra",
+    "Category": "Responsive Web Design",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "They ensured cross-browser compatibility, and the site loads quickly on all devices. Very satisfied."
+  },
+  {
+    "Name": "Vikram Kapoor",
+    "Category": "Responsive Web Design",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "हमारी वेबसाइट अब हर डिवाइस पर शानदार दिखती है। बुलंदटेक की टीम ने बहुत मेहनत की है।"
+  },
+  {
+    "Name": "Meera Rao",
+    "Category": "Responsive Web Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Navigation itna smooth ho gaya hai mobile par. Users ka feedback bhi positive hai. Thanks a lot!"
+  },
+  {
+    "Name": "Nikhil Sinha",
+    "Category": "Responsive Web Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "A truly professional approach to responsive design. They delivered on time and within budget."
+  },
+  {
+    "Name": "Deepika Thakur",
+    "Category": "Responsive Web Design",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The modern UI/UX they implemented has given our website a fresh and professional look."
+  },
+  {
+    "Name": "Harshit Kumar",
+    "Category": "Android App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The Android app they developed for us is fast, intuitive, and has all the features we requested. Excellent work!"
+  },
+  {
+    "Name": "Kavita Nair",
+    "Category": "Android App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Mera app idea itna a_he se execute kiya, I'm so happy! Play Store pe bhi smoothly launch ho gaya."
+  },
+  {
+    "Name": "Rajesh Patel",
+    "Category": "Android App Development",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "एंड्रॉइड ऐप बहुत ही बढ़िया बना है। हमारी टीम और यूजर्स दोनों को बहुत पसंद आया।"
+  },
+  {
+    "Name": "Priyanka Bhatt",
+    "Category": "Android App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The app is highly performant and secure. The team at BulandTECH is skilled and professional."
+  },
+  {
+    "Name": "Mohit Bansal",
+    "Category": "Android App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "API integration ekdam perfect kiya hai. App me koi bug nahi hai. Zabardast kaam!"
+  },
+  {
+    "Name": "Divya Reddy",
+    "Category": "Android App Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "They provided great support during the Play Store deployment process. A reliable partner."
+  },
+  {
+    "Name": "Sameer Kulkarni",
+    "Category": "Android App Development",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "इस ऐप ने हमारे बिज़नेस को एक नई पहचान दी है। बुलंदटेक का बहुत-बहुत धन्यवाद।"
+  },
+  {
+    "Name": "Shalini Dubey",
+    "Category": "Android App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "UI/UX design bahut hi user-friendly hai. Customers ko app use karne me maza aa raha hai."
+  },
+  {
+    "Name": "Abhishek Chatterjee",
+    "Category": "Android App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The app is scalable and ready for future growth. A fantastic development experience."
+  },
+  {
+    "Name": "Komal Verma",
+    "Category": "Android App Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The custom design of the app perfectly matches our brand identity. Very pleased with the result."
+  },
+  {
+    "Name": "Ankit Mishra",
+    "Category": "iOS App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "Our iOS app is a masterpiece. It's sleek, fast, and works flawlessly on all Apple devices. Highly recommend BulandTECH."
+  },
+  {
+    "Name": "Sakshi Pandey",
+    "Category": "iOS App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "iPhone users ke liye itna premium app banaya hai. Design is just wow! App Store pe bhi jaldi approve ho gaya."
+  },
+  {
+    "Name": "Varun Sharma",
+    "Category": "iOS App Development",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "आईओएस ऐप का प्रदर्शन बहुत ही शानदार है। डेटा सुरक्षा का भी पूरा ध्यान रखा गया है।"
+  },
+  {
+    "Name": "Tanvi Jain",
+    "Category": "iOS App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The app's performance is smooth and stable. The team followed all of Apple's design guidelines perfectly."
+  },
+  {
+    "Name": "Rakesh Singh",
+    "Category": "iOS App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Push notifications aur payment gateway integration a_he se kaam kar raha hai. No issues at all."
+  },
+  {
+    "Name": "Neetu Kaur",
+    "Category": "iOS App Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "They handled the entire App Store submission process, which was a huge help for us."
+  },
+  {
+    "Name": "Arjun Rathi",
+    "Category": "iOS App Development",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "यह ऐप हमारे ब्रांड की प्रतिष्ठा को और बढ़ाता है। बुलंदटेक की टीम बहुत प्रतिभाशाली है।"
+  },
+  {
+    "Name": "Simran Agarwal",
+    "Category": "iOS App Development",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "The look and feel of the app is very premium. Users love the elegant UI. Great work!"
+  },
+  {
+    "Name": "Sanjay Mehra",
+    "Category": "iOS App Development",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "A top-tier iOS development service. They delivered a high-quality product that stands out."
+  },
+  {
+    "Name": "Ananya Roy",
+    "Category": "iOS App Development",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The app provides an enhanced user experience, and we've received excellent feedback so far."
+  },
+  {
+    "Name": "Rohini Kapoor",
+    "Category": "E-Commerce Solutions",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "Our online store is now generating more sales than ever. The e-commerce solution provided by BulandTECH is robust and user-friendly."
+  },
+  {
+    "Name": "Manav Gupta",
+    "Category": "E-Commerce Solutions",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Product management itna easy ho gaya hai. Secure payment gateway se customers ka trust bhi badha hai."
+  },
+  {
+    "Name": "Priya Choudhary",
+    "Category": "E-Commerce Solutions",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "हमारा ऑनलाइन स्टोर बहुत ही सुरक्षित और स्केलेबल है। ऑर्डर मैनेजमेंट भी अब बहुत आसान हो गया है।"
+  },
+  {
+    "Name": "Adarsh Verma",
+    "Category": "E-Commerce Solutions",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The shopping cart and checkout process is seamless. Our conversion rates have improved significantly."
+  },
+  {
+    "Name": "Shweta Nair",
+    "Category": "E-Commerce Solutions",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Mobile pe bhi store a_ha chalta hai. Inventory management real-time me update hota hai. Bahut badhiya!"
+  },
+  {
+    "Name": "Kunal Saxena",
+    "Category": "E-Commerce Solutions",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "A complete e-commerce package. They helped us set up everything from design to payment integration."
+  },
+  {
+    "Name": "Pooja Singh",
+    "Category": "E-Commerce Solutions",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "इस प्लेटफॉर्म ने हमें दुनिया भर में अधिक ग्राहकों तक पहुंचने में मदद की है। बुलंदटेक का काम उत्कृष्ट है।"
+  },
+  {
+    "Name": "Anil Rathi",
+    "Category": "E-Commerce Solutions",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Bina technical knowledge ke bhi store manage karna aasan hai. Support team is also very helpful."
+  },
+  {
+    "Name": "Nisha Tiwari",
+    "Category": "E-Commerce Solutions",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They delivered a custom online store that perfectly represents our brand. A five-star service."
+  },
+  {
+    "Name": "Vikas Kumar",
+    "Category": "E-Commerce Solutions",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The platform is easy to manage, and the secure payment options have been great for our business."
+  },
+  {
+    "Name": "Aisha Malhotra",
+    "Category": "Video Editing",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The video editing was top-notch. The final cut was professional, with great transitions and color grading."
+  },
+  {
+    "Name": "Rajat Sharma",
+    "Category": "Video Editing",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Mere YouTube channel ke liye itni a_hi video edit ki hai. Audience engagement badh gaya hai. Superb work!"
+  },
+  {
+    "Name": "Mehul Patel",
+    "Category": "Video Editing",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "वीडियो एडिटिंग का काम बहुत ही रचनात्मक और पेशेवर था। समय पर डिलीवरी के लिए धन्यवाद।"
+  },
+  {
+    "Name": "Sneha Choudhary",
+    "Category": "Video Editing",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They added amazing special effects and sound design to our corporate video. It looks fantastic."
+  },
+  {
+    "Name": "Ananya Singh",
+    "Category": "Video Editing",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Reels itni catchy banayi hain, viral ho gayi! Editing style is very modern and trendy. Loved it!"
+  },
+  {
+    "Name": "Tarun Gupta",
+    "Category": "Video Editing",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The storytelling in the edit was compelling. They really understood the brief and delivered."
+  },
+  {
+    "Name": "Riya Verma",
+    "Category": "Video Editing",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "उन्होंने हमारे लघु फिल्म को अपनी एडिटिंग से एक नई जान दे दी। उनका काम वाकई कलात्मक है।"
+  },
+  {
+    "Name": "Harsh Kumar",
+    "Category": "Video Editing",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Color correction aur audio quality ekdam perfect thi. Video ka look hi change ho gaya. Highly skilled team."
+  },
+  {
+    "Name": "Divya Sharma",
+    "Category": "Video Editing",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "Fast turnaround and exceptional quality. BulandTECH is our go-to for all video editing needs."
+  },
+  {
+    "Name": "Abhinav Rao",
+    "Category": "Video Editing",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The promotional video they edited for us has received a lot of positive feedback. Great job!"
+  },
+  {
+    "Name": "Kritika Joshi",
+    "Category": "Graphic Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The logo and branding kit they designed for us is brilliant. It perfectly captures our brand's essence."
+  },
+  {
+    "Name": "Rohit Mehra",
+    "Category": "Graphic Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Social media ke liye itne creative graphics banaye hain. Engagement rate double ho gaya hai. Amazing!"
+  },
+  {
+    "Name": "Shreya Bansal",
+    "Category": "Graphic Design",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "हमारे नए ब्रोशर का डिज़ाइन बहुत ही आकर्षक और पेशेवर है। बुलंदटेक का काम बहुत अच्छा है।"
+  },
+  {
+    "Name": "Pranav Jain",
+    "Category": "Graphic Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The infographics they created were clear, concise, and visually stunning. A pleasure to work with."
+  },
+  {
+    "Name": "Nidhi Sharma",
+    "Category": "Graphic Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Poster design ekdam mind-blowing tha. Event ke liye perfect buzz create ho gaya. Thanks, BulandTECH!"
+  },
+  {
+    "Name": "Sameer Rathi",
+    "Category": "Graphic Design",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "They delivered high-quality print-ready files on a tight deadline. Very reliable and professional."
+  },
+  {
+    "Name": "Meera Kapoor",
+    "Category": "Graphic Design",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "उन्होंने हमारी कंपनी के लिए एक यादगार ब्रांड पहचान बनाई है। उनकी रचनात्मकता सराहनीय है।"
+  },
+  {
+    "Name": "Vikram Singh",
+    "Category": "Graphic Design",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Website banners bahut hi eye-catching hain. Click-through rate improve ho gaya hai. Excellent design skills."
+  },
+  {
+    "Name": "Anjali Malhotra",
+    "Category": "Graphic Design",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "From concept to final design, the process was smooth and collaborative. The results speak for themselves."
+  },
+  {
+    "Name": "Aditya Verma",
+    "Category": "Graphic Design",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The packaging design they created for our product is both beautiful and functional. Very happy."
+  },
+  {
+    "Name": "Priya Saxena",
+    "Category": "Music Mastering",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The mastering brought my track to life. The clarity, depth, and loudness are perfect for commercial release."
+  },
+  {
+    "Name": "Karan Nair",
+    "Category": "Music Mastering",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Gaane ki quality itni improve ho gayi mastering ke baad. Sound ekdam crisp aur powerful hai. Fantastic job!"
+  },
+  {
+    "Name": "Ritu Gupta",
+    "Category": "Music Mastering",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "मास्टरिंग का काम बहुत ही पेशेवर तरीके से किया गया है। साउंड की गुणवत्ता अब अंतरराष्ट्रीय स्तर की है।"
+  },
+  {
+    "Name": "Aarav Singh",
+    "Category": "Music Mastering",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They made my mix sound polished and professional. The track is now ready for all streaming platforms."
+  },
+  {
+    "Name": "Neha Choudhary",
+    "Category": "Music Mastering",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Bass aur treble ka balance ekdam perfect hai. Mastering ne gaane me jaan daal di. Highly recommended!"
+  },
+  {
+    "Name": "Manish Sharma",
+    "Category": "Music Mastering",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The mastered audio is clean and dynamic. They have a great ear for detail. Very satisfied."
+  },
+  {
+    "Name": "Pooja Mehta",
+    "Category": "Music Mastering",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "उन्होंने मेरे संगीत को एक नया आयाम दिया है। उनकी तकनीकी विशेषज्ञता और कलात्मक समझ अद्भुत है।"
+  },
+  {
+    "Name": "Vivek Rao",
+    "Category": "Music Mastering",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Stereo imaging bahut a_ha hai. Har instrument clearly sunai de raha hai. Kamaal ka kaam kiya hai."
+  },
+  {
+    "Name": "Shalini Verma",
+    "Category": "Music Mastering",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "Fast turnaround and world-class quality. BulandTECH is my trusted partner for music mastering."
+  },
+  {
+    "Name": "Akash Rathi",
+    "Category": "Music Mastering",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The track sounds great on all systems, from headphones to club speakers. Excellent mastering."
+  },
+  {
+    "Name": "Radhika Jain",
+    "Category": "Remix Music",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "The remix they produced is an absolute banger! The new beat and arrangement are fire. It's a hit!"
+  },
+  {
+    "Name": "Varun Kapoor",
+    "Category": "Remix Music",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Mere old track ko itna fresh remix kiya hai, party me aag laga di! Beats are sick. Full power!"
+  },
+  {
+    "Name": "Tanvi Malhotra",
+    "Category": "Remix Music",
+    "Language": "Hindi",
+    "Rating": 4,
+    "Review": "रीमिक्स बहुत ही ऊर्जावान और रचनात्मक है। डांस फ्लोर के लिए एकदम सही है।"
+  },
+  {
+    "Name": "Rajesh Singh",
+    "Category": "Remix Music",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They transformed my song into a dance anthem. The production quality is amazing."
+  },
+  {
+    "Name": "Neetu Gupta",
+    "Category": "Remix Music",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Remix ka drop bahut hi powerful hai. DJ log isko baar baar baja rahe hain. Zabardast!"
+  },
+  {
+    "Name": "Arjun Mehra",
+    "Category": "Remix Music",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "A very creative and modern take on my original song. The remix has a great vibe."
+  },
+  {
+    "Name": "Simran Verma",
+    "Category": "Remix Music",
+    "Language": "Hindi",
+    "Rating": 5,
+    "Review": "उन्होंने गाने को एक नया रूप दिया है जो मूल की आत्मा को बनाए रखता है। बहुत बढ़िया काम।"
+  },
+  {
+    "Name": "Sanjay Rao",
+    "Category": "Remix Music",
+    "Language": "Hinglish",
+    "Rating": 5,
+    "Review": "Transitions itne smooth hain aur sound design top-notch hai. Remix sunke maza aa gaya."
+  },
+  {
+    "Name": "Ananya Sharma",
+    "Category": "Remix Music",
+    "Language": "English",
+    "Rating": 5,
+    "Review": "They understood the vibe I was going for and delivered a remix that exceeded all expectations."
+  },
+  {
+    "Name": "Rohini Saxena",
+    "Category": "Remix Music",
+    "Language": "English",
+    "Rating": 4,
+    "Review": "The remix is perfect for clubs and parties. It has a great energy and a catchy beat."
+  }
+]
