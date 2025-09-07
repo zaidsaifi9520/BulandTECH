@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia Services - BulandTECH</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><a href="index.html" style="color: inherit; text-decoration: none;">BulandTECH <span id="emoji">🚀</span></a></h1>
+            <p>Web Development | Android & iOS App Development | Web Design</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <a href="index.html">🏠 Home</a>
+            <a href="about.html">👤 About Me</a>
+            <a href="multimedia.html" class="active">🎬 Multimedia Services</a>
+            <a href="contact.html">📞 Contact</a>
+        </div>
+    </nav>
+
+    <section id="services">
+        <div class="container">
+            <h2>Multimedia Services</h2>
+            <p>Select a service to describe your requirements.</p>
+            <div id="service-buttons" class="service-grid">
+                <a href="video-editing.html" class="service-btn">🎬 Video Editor</a>
+                <a href="graphic-design.html" class="service-btn">🎨 Graphic Design</a>
+                <a href="music-mastering.html" class="service-btn">🎵 Music Mastering</a>
+                <a href="remix-music.html" class="service-btn">🎶 Remix Music</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hidden Requirement Form -->
+    <div id="requirement-form-container" class="form-popup" style="display:none;">
+        <div class="form-content">
+            <span class="close-btn">&times;</span>
+            <h3 id="form-title">Requirement Details</h3>
+            <form id="whatsapp-form">
+                <input type="text" id="client-name" name="client-name" placeholder="Your Name" required>
+                <input type="tel" id="client-phone" name="client-phone" placeholder="Your Phone Number" required>
+                <textarea id="requirements" name="requirements" rows="5" placeholder="Please describe your requirements in detail here..." required></textarea>
+                <button type="submit" class="btn btn-whatsapp">📲 Send and Contact Admin</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="multimedia.html">Services</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contact Info</h4>
+                <p>📍 Syana, Bulandshahar, India</p>
+                <p>📧 info@bulandtech.com</p>
+                <p>📞 +91-8265999762</p>
+            </div>
+            <div class="footer-section">
+                <h4>Follow Us</h4>
+                <div class="social-icons">
+                    <a href="#" target="_blank">FB</a>
+                    <a href="#" target="_blank">IN</a>
+                    <a href="#" target="_blank">YT</a>
+                    <a href="#" target="_blank">LI</a>
+                </div>
+            </div>
+            <div class="footer-section footer-cta">
+                <h4>Get a Quote</h4>
+                <a href="https://wa.me/918265999762?text=Hello%20BulandTECH,%20I%20want%20to%20know%20more%20about%20your%20services." class="cta-btn" target="_blank">Contact on WhatsApp</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2025 BulandTECH. All Rights Reserved.</p>
+            <p>Designed & Developed by Sonu (BulandTECH)</p>
+            <a href="//www.dmca.com/Protection/Status.aspx?ID=b5d2f2c3-2d3f-4c4a-8a1e-3e5e1e1f3c1a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=b5d2f2c3-2d3f-4c4a-8a1e-3e5e1e1f3c1a"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+        </div>
+    </footer>
+
+    <script>
+        const serviceButtons = document.querySelectorAll('.service-btn');
+        const formContainer = document.getElementById('requirement-form-container');
+        const formTitle = document.getElementById('form-title');
+        const closeBtn = document.querySelector('.close-btn');
+        const whatsappForm = document.getElementById('whatsapp-form');
+        const clientNameInput = document.getElementById('client-name');
+        const clientPhoneInput = document.getElementById('client-phone');
+        const requirementsTextarea = document.getElementById('requirements');
+        let selectedService = '';
+
+        serviceButtons.forEach(button => {
+            if (button.tagName === 'BUTTON') {
+                button.addEventListener('click', () => {
+                    selectedService = button.getAttribute('data-service');
+                    formTitle.innerText = `Requirements for ${selectedService}`;
+                    formContainer.style.display = 'flex';
+                });
+            }
+        });
+
+        function closeForm() {
+            formContainer.style.display = 'none';
+            whatsappForm.reset();
+        }
+
+        closeBtn.addEventListener('click', closeForm);
+
+        window.addEventListener('click', (event) => {
+            if (event.target == formContainer) {
+                closeForm();
+            }
+        });
+
+        whatsappForm.addEventListener('submit', (event) => {
+            event.preventDefault();
+            const clientName = clientNameInput.value;
+            const clientPhone = clientPhoneInput.value;
+            const requirements = requirementsTextarea.value;
+            
+            const message = `Hello, I have a new requirement.\n\n*Service:* ${selectedService}\n*Name:* ${clientName}\n*Phone:* ${clientPhone}\n\n*Details:*\n${requirements}`;
+            
+            const whatsappUrl = `https://wa.me/918265999762?text=${encodeURIComponent(message)}`;
+            
+            window.open(whatsappUrl, '_blank').focus();
+            
+            closeForm();
+        });
+    </script>
+    <div class="floating-container">
+        <div class="floating-button" id="main-float-button">
+            <img src="2.png" alt="Tools">
+        </div>
+        <div class="floating-menu">
+            <a href="music-tools.html" class="menu-item" title="Music Tools">🎵</a>
+            <a href="video-tools.html" class="menu-item" title="Video Editing Tools">🎬</a>
+            <a href="coding-tools.html" class="menu-item" title="Coding Languages">💻</a>
+            <a href="graphics-tools.html" class="menu-item" title="Graphic Tools">🎨</a>
+        </div>
+    </div>
+</body>
+</html>
